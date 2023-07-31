@@ -9,10 +9,11 @@ GitHub Copilot and OpenAI will also be utilized to create applications.
 
 - Go(Golang)
 - TypeScript
-- React.js & Next.js ( | Vue.js & Nuxt.js)
+- React.js & Next.js (| Vue.js & Nuxt.js)
   - & Vercel & Tailwind CSS?
   - [https://qiita.com/dtakkiy/items/7d79c153860fbda102a7]
 - (Flutter & Firebase | Supabase)
 - Docker
-- CI/CD (GitHub Actions | CircleCI | Travis CI)
+- CI/CD: GitHub Actions (| CircleCI)
+- AWS | GCP (| Azure?)
 
